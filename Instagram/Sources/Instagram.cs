@@ -14,12 +14,7 @@ namespace Instagram.Sources
     class InstaHelper
     {
 
-        //private string ClientID = "ab21c51375e44cc48123400341094120";
-        //public string ClientSecret = "88a8a586ae8e4978accf312133bb06d8";
-        //private string RedirectURI = "http://localhost";
-        //private string code = "30aec5a2cdde4ca7a76a05c6131f2aa9";
-        //private string Token = "3959901571.ab21c51.19f116295fb743a4aadcc6c0bd5d28f2";
-        //3959901571.ab21c51.19f116295fb743a4aadcc6c0bd5d28f2
+      
 
         public async Task<string> GetAccessToken()
         {
